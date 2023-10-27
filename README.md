@@ -1,6 +1,6 @@
 # Naan-Mudhalvan--Digital-Marketing-
 
-<P>TEAM LEAD          : DHINESH M</P>
+<P>TEAM LEADER          : DHINESH M</P>
 <P>TEAM MEMBER 1      : HAARIS I</P>       
 <P>TEAM MEMBER 2      : DILIPKUMAR </P>
 <P>TEAM MEMBER 3      : KARUPPASAMY</P>
